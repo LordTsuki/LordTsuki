@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I use Kali but I don't know how to hack a wi-fi.
 -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LordTsuki)](https://git.io/streak-stats)
