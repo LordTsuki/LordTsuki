@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lordtsuki&show_icons=true&theme=gruvbox&locale=en&bg_color=00000000" alt="lordtsuki" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LordTsuki&theme=gruvbox&date_format=%5BY%20%5DM%20j&exclude_days=Sun%2CSat&card_width=800&background=EB545400)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LordTsuki&theme=gruvbox&date_format=%5BY%20%5DM%20j&exclude_days=Sun%2CSat&card_width=850&background=EB545400)](https://git.io/streak-stats)
