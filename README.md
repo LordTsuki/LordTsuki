@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lordtsuki&show_icons=true&theme=gruvbox&locale=en&no-bg=true" alt="lordtsuki" /></p>
 
-<p><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lordtsuki&theme=gruvbox&no-bg=true" alt="lordtsuki" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lordtsuki&theme=gruvbox&no-bg=true" alt="lordtsuki" /></p>
