@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordtsuki&label=Profile%20views&color=yellow&style=for-the-badge" alt="lordtsuki" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordtsuki&row=2&column=3&theme=gruvbox&no-bg=true" alt="lordtsuki" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordtsuki&row=2&column=-1&theme=gruvbox&no-bg=true&rank=-SECRET" alt="lordtsuki" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tsuki0luna" target="blank"><img src="https://img.shields.io/twitter/follow/@tsuki0luna?logo=twitter&style=for-the-badge" alt="@tsuki0luna" /></a> </p>
 
