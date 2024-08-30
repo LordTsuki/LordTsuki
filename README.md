@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tsuki0luna" target="blank"><img src="https://img.shields.io/twitter/follow/tsuki0luna?logo=twitter&style=for-the-badge" alt="tsuki0luna" /></a> </p>
 
-- 🔭 I’m currently working on [Magic and Elements]([https://github.com/LordTsuki/mne])
+- 🔭 I’m currently working on [Magic and Elements](https://github.com/LordTsuki/mne)
 
 - 🌱 I’m currently learning **HTML/CSS & JS**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **get a work in game development**
 
-- 👨‍💻 All of my projects are available at [HERE]([https://github.com/LordTsuki])
+- 👨‍💻 All of my projects are available at [HERE](https://github.com/LordTsuki)
 
 - 💬 Ask me about **C# for Unity**
 
